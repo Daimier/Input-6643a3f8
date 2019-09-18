@@ -1,0 +1,14 @@
+h2 {
+    color: purple;
+}
+ul {
+	color: red;
+}
+ol {
+	color: red;
+}
+body {background-color: pink;
+}
+input{/* <length> values */
+width: 200px;
+}
